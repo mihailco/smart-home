@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-12-08T01:26:04.036+00:00",
+  "path": "/api/register",
+  "status": 500,
+  "error": "Internal Server Error",
+  "requestId": "a74c62be-66"
+}

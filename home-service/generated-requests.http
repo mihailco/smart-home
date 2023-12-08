@@ -1,0 +1,73 @@
+
+### Создать дом
+POST http://localhost:8080/api/homes
+Content-Type: application/json
+
+{
+  "name": "Дом Шерлока",
+  "address": "Бейкер-стрит, 220a"
+}
+
+### Создать дом без адреса
+POST http://localhost:8080/api/homes
+Content-Type: application/json
+
+{
+  "name": "Дом без адреса"
+}
+
+
+### Создать дом без имени [400]
+POST http://localhost:8080/api/homes
+Content-Type: application/json
+
+{
+}
+
+
+### Редактирование дома
+PUT http://localhost:8080/api/homes/1
+Content-Type: application/json
+
+{
+  "name": "Дом Шерлока",
+  "address": "Бейкер-стрит, 221b"
+}
+
+
+###Получить дом
+GET http://localhost:8080/api/homes/1
+
+
+###Получить список домов
+GET http://localhost:8080/api/homes
+
+
+###Удалить дом
+DELETE http://localhost:8080/api/homes/1
+
+
+###Создать комнату
+POST http://localhost:8080/api/rooms?homeId=1
+Content-Type: application/json
+
+{
+  "name": "Гостиная"
+}
+
+
+###Редактировать комнату
+PUT http://localhost:8080/api/rooms/1
+Content-Type: application/json
+
+{
+  "name": "Гостфффффиная"
+}
+
+
+
+###Удалить комнату
+DELETE http://localhost:8080/api/rooms/1
+
+
+

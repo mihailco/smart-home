@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-12-08T00:58:53.219+00:00",
+  "path": "/api/homes",
+  "status": 500,
+  "error": "Internal Server Error",
+  "requestId": "4068d2ec-53"
+}

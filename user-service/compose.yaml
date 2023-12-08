@@ -1,0 +1,16 @@
+version: "3.8"
+
+
+services:
+  db_user:
+    container_name: "user"
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: "postgrespw"
+      POSTGRES_USER: "postgres"
+    expose:
+    - "5433"
+    command: -p 5433
+    ports:
+      - "5433:5433"

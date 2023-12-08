@@ -1,0 +1,130 @@
+
+
+###Зарегистрироваться
+#username обновлять
+POST http://localhost:8080/api/register
+Content-Type: application/json
+
+{
+  "name": "Вася",
+  "username": "Va2sili16781i",
+  "password": "123123",
+  "confirmPassword": "123123"
+}
+> {%
+    client.global.set("access_token", response.body.accessToken);
+    client.global.set("refresh_token", response.body.refreshToken);
+%}
+
+
+### Авторизоваться
+POST http://localhost:8080/api/auth
+Content-Type: application/json
+
+{
+  "username": "Va2sili16781i",
+  "password": "123123"
+}
+> {%
+    client.global.set("access_token", response.body.accessToken);
+    client.global.set("refresh_token", response.body.refreshToken);
+%}
+
+
+###Разлогиниться
+POST http://localhost:8080/api/signout
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+
+###Обновить токен
+POST http://localhost:8080/api/refresh
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+{
+  "refreshToken": "{{refresh_token}}"
+}
+> {%
+    client.global.set("access_token", response.body.accessToken);
+    client.global.set("refresh_token", response.body.refreshToken);
+%}
+
+###Удалить аккаунт
+DELETE http://localhost:8084/api/account
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+{
+  "password": "123123"
+}
+
+
+###Дом и комнаты
+###
+
+
+### Создать дом
+POST http://localhost:8080/api/homes
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+{
+  "name": "Дом Шерлока",
+  "address": "Бейкер-стрит, 220a"
+}
+
+
+### Редактирование дома
+PUT http://localhost:8080/api/homes/5
+Content-Type: application/json
+
+{
+  "name": "Дом Шерлока",
+  "address": "Бейкер-стрит, 221b"
+}
+
+
+###Получить дом
+GET http://localhost:8080/api/homes/11
+X-Access-Token: {{access_token}}
+
+
+###Получить список домов
+GET http://localhost:8080/api/homes
+X-Access-Token: {{access_token}}
+
+
+###Удалить дом
+DELETE http://localhost:8080/api/homes/1
+X-Access-Token: {{access_token}}
+
+
+###Создать комнату
+POST http://localhost:8080/api/rooms?homeId=11
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+{
+  "name": "Гостиная"
+}
+
+
+###Редактировать комнату
+PUT http://localhost:8080/api/rooms/2
+X-Access-Token: {{access_token}}
+Content-Type: application/json
+
+{
+  "name": "Гостфффффиная"
+}
+
+
+
+###Удалить комнату
+DELETE http://localhost:8080/api/rooms/1
+X-Access-Token: {{access_token}}
+
+
+
+

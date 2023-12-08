@@ -1,0 +1,28 @@
+
+
+datasource:
+  hh:
+    pool-name: hh
+    jdbcUrl: jdbc:postgresql://localhost:5432/postgres
+    driver-class-name: org.postgresql.Driver
+    password: postgrespw
+    username: postgres
+
+spring:
+  flyway:
+    enabled: true
+
+  jpa:
+#    generate-ddl: on
+    show-sql: true
+
+#    hibernate:
+#      ddl-auto: update
+
+    properties:
+      hibernate:
+        format_sql: true
+server:
+  port: 8081
+
+
