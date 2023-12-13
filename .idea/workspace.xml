@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d20b0b-ef1c-45ba-906d-cebce251caab" name="Changes" comment="gateway and security done">
-      <change afterPath="$PROJECT_DIR$/commons/src/main/java/com/example/kafka/KafkaGroupIds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/listener/UserDeletedListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034726.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034728.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034741.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034743.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034814.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034822.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T034900.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035621.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035628.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035640.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035654.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035734.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035741.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035751.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035753.401.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035806.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035853.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T035857.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T040014.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T040029.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-12-08T040119.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-requests.http" beforeDir="false" afterPath="$PROJECT_DIR$/generated-requests.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/java/com/example/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/java/com/example/controller/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/controller/RoomController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/java/com/example/repository/HomeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/repository/HomeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/java/com/example/service/HomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/service/HomeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/java/com/example/service/impl/HomeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/java/com/example/service/impl/HomeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/home-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="c3d20b0b-ef1c-45ba-906d-cebce251caab" name="Changes" comment="commons add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,11 +61,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HttpClientSelectedEnvironments">
@@ -125,41 +80,39 @@
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "kafka",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/mihai/IdeaProjects/untitled4/commons/src/main/java/com/example",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/mihai/IdeaProjects/untitled4/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/commons/src/main/java/com/example&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -184,8 +137,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.generated-requests | Удалить аккаунт">
-    <configuration name="generated-requests | Удалить аккаунт" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="5" requestIdentifier="Удалить аккаунт" runType="Run single request">
+  <component name="RunManager" selected="HTTP Request.generated-requests | Авторизоваться">
+    <configuration name="generated-requests | Создать комнату" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="11" requestIdentifier="Создать комнату" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="generated-requests | Редактировать комнату" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="12" requestIdentifier="Редактировать комнату" runType="Run single request">
@@ -197,7 +150,7 @@
     <configuration name="generated-requests | Получить дом" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="8" requestIdentifier="Получить дом" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="generated-requests | Зарегистрироваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" requestIdentifier="Зарегистрироваться" runType="Run single request">
+    <configuration name="generated-requests | Авторизоваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="2" requestIdentifier="Авторизоваться" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="generated-requests | Зарегистрироваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user-service/generated-requests.http" requestIdentifier="Зарегистрироваться" runType="Run single request">
@@ -206,10 +159,7 @@
     <configuration name="generated-requests | Авторизоваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user-service/generated-requests.http" index="2" requestIdentifier="Авторизоваться" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="generated-requests | Зарегистрироваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" requestIdentifier="Зарегистрироваться" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="generated-requests | Дом и комнаты" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="6" requestIdentifier="Дом и комнаты" runType="Run single request">
+    <configuration name="generated-requests | Получить список домов" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="9" requestIdentifier="Получить список домов" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
@@ -241,34 +191,11 @@
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="docker-compose.yaml.kafka-ui: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="services">
-            <list>
-              <option value="kafka-ui" />
-            </list>
-          </option>
-          <option name="sourceFilePath" value="docker-compose.yaml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <configuration name="untitled1/docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="sourceFilePath" value="../untitled1/docker-compose.yaml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.generated-requests | Удалить аккаунт" />
-        <item itemvalue="HTTP Request.generated-requests | Дом и комнаты" />
-        <item itemvalue="HTTP Request.generated-requests | Зарегистрироваться" />
-        <item itemvalue="Docker.docker-compose.yaml.kafka-ui: Compose Deployment" />
-        <item itemvalue="Docker.untitled1/docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="HTTP Request.generated-requests | Получить список домов" />
+        <item itemvalue="HTTP Request.generated-requests | Создать комнату" />
+        <item itemvalue="HTTP Request.generated-requests | Авторизоваться" />
       </list>
     </recent_temporary>
   </component>
@@ -300,21 +227,6 @@
       <workItem from="1701988632605" duration="5494000" />
       <workItem from="1701994308716" duration="5748000" />
       <workItem from="1702000155697" duration="428000" />
-      <workItem from="1702000634321" duration="346000" />
-      <workItem from="1702041389454" duration="1004000" />
-      <workItem from="1702043183978" duration="13271000" />
-      <workItem from="1702118411412" duration="836000" />
-      <workItem from="1702120913440" duration="1682000" />
-      <workItem from="1702150631846" duration="130000" />
-      <workItem from="1702153100485" duration="1634000" />
-      <workItem from="1702215273957" duration="619000" />
-      <workItem from="1702231380662" duration="634000" />
-      <workItem from="1702240196125" duration="431000" />
-      <workItem from="1702312899114" duration="5698000" />
-      <workItem from="1702386699352" duration="4345000" />
-      <workItem from="1702413397490" duration="1421000" />
-      <workItem from="1702417804825" duration="4392000" />
-      <workItem from="1702454231005" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="before rebuilding">
       <option name="closed" value="true" />
@@ -340,15 +252,7 @@
       <option name="project" value="LOCAL" />
       <updated>1701999915996</updated>
     </task>
-    <task id="LOCAL-00004" summary="gateway and security done">
-      <option name="closed" value="true" />
-      <created>1702000735208</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1702000735209</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,9 +300,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/commons" />
-    </ignored-roots>
     <MESSAGE value="before rebuilding" />
     <MESSAGE value="gateway and security done" />
     <option name="LAST_COMMIT_MESSAGE" value="gateway and security done" />
@@ -414,14 +315,10 @@
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
-      <inline-watch fileUrl="file://$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" line="37">
+      <inline-watch fileUrl="file://$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" line="29">
         <watch expression="httpServletRequest.getRequestURL()" language="JAVA" />
       </inline-watch>
     </watches-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled4$HomeServiceApplication.ic" NAME="HomeServiceApplication Coverage Results" MODIFIED="1701993857257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
