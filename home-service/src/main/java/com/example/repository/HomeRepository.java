@@ -1,6 +1,7 @@
 package com.example.repository;
 
 import com.example.entity.HomeEntity;
+import jakarta.transaction.Transactional;
 import lombok.NonNull;
 import org.springframework.data.jpa.repository.EntityGraph;
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -21,4 +22,7 @@ public interface HomeRepository extends JpaRepository<HomeEntity, Integer> {
     <S extends HomeEntity> S save(@NonNull S entity);
 
     List<HomeEntity> findAllByOwnerId(int ownerId);
+
+    @Transactional
+    void deleteAllByOwnerId(int ownerId);
 }

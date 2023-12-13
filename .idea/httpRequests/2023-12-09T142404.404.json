@@ -1,0 +1,8 @@
+{
+  "timestamp": "2023-12-09T11:24:04.149+00:00",
+  "path": "/api/register",
+  "status": 404,
+  "error": "Not Found",
+  "message": null,
+  "requestId": "24e6a0b3-60"
+}

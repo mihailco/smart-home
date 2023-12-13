@@ -11,4 +11,6 @@ public interface HomeService {
    HomeEntity getHomeById(int id);
    HomeEntity updateHome(int id, HomeEntity updatedHome);
    void deleteHome(int id);
+
+   void deleteByOwnerId(int ownerId);
 }

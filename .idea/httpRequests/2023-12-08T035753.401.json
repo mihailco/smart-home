@@ -1,6 +1,0 @@
-{
-  "path": "/api/homes",
-  "error": "Unauthorized",
-  "message": "Full authentication is required to access this resource",
-  "status": 401
-}

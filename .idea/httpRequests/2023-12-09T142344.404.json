@@ -1,0 +1,8 @@
+{
+  "timestamp": "2023-12-09T11:23:43.906+00:00",
+  "path": "/api/auth",
+  "status": 404,
+  "error": "Not Found",
+  "message": null,
+  "requestId": "955270a4-58"
+}
