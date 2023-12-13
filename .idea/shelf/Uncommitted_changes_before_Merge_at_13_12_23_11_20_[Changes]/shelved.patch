@@ -1,0 +1,166 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c3d20b0b-ef1c-45ba-906d-cebce251caab\" name=\"Changes\" comment=\"commons add\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeInsightWorkspaceSettings\">\r\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/commons\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/commons-starter\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/gateway\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/hh\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/home-service\">\r\n      <ProjectState />\r\n    </projectState>\r\n    <projectState path=\"$PROJECT_DIR$/user-service\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <task path=\"$PROJECT_DIR$\">\r\n          <activation />\r\n        </task>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand />\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTTP Public Environment File\" />\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HttpClientSelectedEnvironments\">\r\n    <file url=\"file://$PROJECT_DIR$/generated-requests.http\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2YqpdPqjc6jyz5bQ0pHUOSovQlr\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"openDirectoriesWithSingleClick\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,\r\n    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,\r\n    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,\r\n    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,\r\n    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/commons/src/main/java/com/example&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/src/main/java/org/example/Main.java&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,\r\n    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  },\r\n  &quot;keyToStringList&quot;: {\r\n    &quot;DatabaseDriversLRU&quot;: [\r\n      &quot;postgresql&quot;\r\n    ]\r\n  }\r\n}</component>\r\n  <component name=\"ReactorSettings\">\r\n    <option name=\"notificationShown\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mihai\\IdeaProjects\\untitled4\\commons\\src\\main\\java\\com\\example\" />\r\n      <recent name=\"C:\\Users\\mihai\\IdeaProjects\\untitled4\\commons\\src\\main\\resources\" />\r\n      <recent name=\"C:\\Users\\mihai\\IdeaProjects\\untitled4\\commons-starter\\src\\main\\java\\com\\example\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\mihai\\IdeaProjects\\untitled4\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"com.example.demo.configuration\" />\r\n      <recent name=\"com.example\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"configurationTypes\">\r\n      <set>\r\n        <option value=\"SpringBootApplicationConfigurationType\" />\r\n      </set>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"HTTP Request.generated-requests | Авторизоваться\">\r\n    <configuration name=\"generated-requests | Создать комнату\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"11\" requestIdentifier=\"Создать комнату\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Редактировать комнату\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"12\" requestIdentifier=\"Редактировать комнату\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Получить дом\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"8\" requestIdentifier=\"Получить дом\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Получить дом\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"8\" requestIdentifier=\"Получить дом\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Авторизоваться\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"2\" requestIdentifier=\"Авторизоваться\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Зарегистрироваться\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/user-service/generated-requests.http\" requestIdentifier=\"Зарегистрироваться\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Авторизоваться\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/user-service/generated-requests.http\" index=\"2\" requestIdentifier=\"Авторизоваться\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"generated-requests | Получить список домов\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$PROJECT_DIR$/generated-requests.http\" index=\"9\" requestIdentifier=\"Получить список домов\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"GatewayApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\r\n      <module name=\"untitled4.gateway.main\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"ru.handh.GatewayApplication\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"UserServiceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\r\n      <option name=\"FRAME_DEACTIVATION_UPDATE_POLICY\" value=\"UpdateClassesAndResources\" />\r\n      <module name=\"untitled4.user-service.main\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.example.UserServiceApplication\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"docker-deploy\" factoryName=\"docker-compose.yml\" temporary=\"true\">\r\n      <deployment type=\"docker-compose.yml\">\r\n        <settings />\r\n      </deployment>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"HTTP Request.generated-requests | Получить список домов\" />\r\n        <item itemvalue=\"HTTP Request.generated-requests | Создать комнату\" />\r\n        <item itemvalue=\"HTTP Request.generated-requests | Авторизоваться\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c3d20b0b-ef1c-45ba-906d-cebce251caab\" name=\"Changes\" comment=\"\" />\r\n      <created>1701263056515</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1701263056515</updated>\r\n      <workItem from=\"1701263057558\" duration=\"3453000\" />\r\n      <workItem from=\"1701341628527\" duration=\"65000\" />\r\n      <workItem from=\"1701444170761\" duration=\"43000\" />\r\n      <workItem from=\"1701544138354\" duration=\"2585000\" />\r\n      <workItem from=\"1701548523043\" duration=\"2621000\" />\r\n      <workItem from=\"1701551202929\" duration=\"3832000\" />\r\n      <workItem from=\"1701778737918\" duration=\"49000\" />\r\n      <workItem from=\"1701778840420\" duration=\"41000\" />\r\n      <workItem from=\"1701778929323\" duration=\"24000\" />\r\n      <workItem from=\"1701778986692\" duration=\"14274000\" />\r\n      <workItem from=\"1701793460520\" duration=\"4452000\" />\r\n      <workItem from=\"1701798094283\" duration=\"9182000\" />\r\n      <workItem from=\"1701811935328\" duration=\"2228000\" />\r\n      <workItem from=\"1701850150889\" duration=\"2769000\" />\r\n      <workItem from=\"1701877742395\" duration=\"7262000\" />\r\n      <workItem from=\"1701970930065\" duration=\"6046000\" />\r\n      <workItem from=\"1701982542444\" duration=\"5937000\" />\r\n      <workItem from=\"1701988632605\" duration=\"5494000\" />\r\n      <workItem from=\"1701994308716\" duration=\"5748000\" />\r\n      <workItem from=\"1702000155697\" duration=\"428000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"before rebuilding\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1701600078009</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1701600078009</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"gateway and security done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1701999433410</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1701999433410</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"gateway and security done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1701999915996</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1701999915996</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"11304c7b-d069-47ae-929b-ebd8317ef1a7\" value=\"TOOL_WINDOW\" />\r\n        <entry key=\"de8686fa-221e-4dc5-b226-c678feeae1b7\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"11304c7b-d069-47ae-929b-ebd8317ef1a7\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"de8686fa-221e-4dc5-b226-c678feeae1b7\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT\" value=\"false\" />\r\n    <option name=\"CHECK_NEW_TODO\" value=\"false\" />\r\n    <MESSAGE value=\"before rebuilding\" />\r\n    <MESSAGE value=\"gateway and security done\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"gateway and security done\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>\r\n          <line>15</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n    <watches-manager>\r\n      <inline-watch fileUrl=\"file://$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java\" line=\"29\">\r\n        <watch expression=\"httpServletRequest.getRequestURL()\" language=\"JAVA\" />\r\n      </inline-watch>\r\n    </watches-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/untitled4$HomeServiceApplication.ic\" NAME=\"HomeServiceApplication Coverage Results\" MODIFIED=\"1701993857257\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>com.example.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 28e722bafca2c0d4a9960d7f1ce91444069f0cf6)
++++ b/.idea/workspace.xml	(date 1702455634760)
+@@ -61,6 +61,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="kafka" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="HttpClientSelectedEnvironments">
+@@ -82,37 +87,39 @@
+     <option name="openDirectoriesWithSingleClick" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/commons/src/main/java/com/example&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mihai/IdeaProjects/untitled4/src/main/java/org/example/Main.java&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RequestMappingsPanelOrder0": "0",
++    "RequestMappingsPanelOrder1": "1",
++    "RequestMappingsPanelWidth0": "75",
++    "RequestMappingsPanelWidth1": "75",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "android.gradle.sync.needed": "true",
++    "dart.analysis.tool.window.visible": "false",
++    "git-widget-placeholder": "develop",
++    "jdk.selected.JAVA_MODULE": "17",
++    "last_opened_file_path": "C:/Users/mihai/IdeaProjects/untitled4/commons/src/main/java/com/example",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "onboarding.tips.debug.path": "C:/Users/mihai/IdeaProjects/untitled4/src/main/java/org/example/Main.java",
++    "project.structure.last.edited": "Modules",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.2",
++    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "show.migrate.to.gradle.popup": "false",
++    "vue.rearranger.settings.migration": "true"
+   },
+-  &quot;keyToStringList&quot;: {
+-    &quot;DatabaseDriversLRU&quot;: [
+-      &quot;postgresql&quot;
++  "keyToStringList": {
++    "DatabaseDriversLRU": [
++      "postgresql"
+     ]
+   }
+-}</component>
++}]]></component>
+   <component name="ReactorSettings">
+     <option name="notificationShown" value="true" />
+   </component>
+@@ -137,8 +144,8 @@
+       </set>
+     </option>
+   </component>
+-  <component name="RunManager" selected="HTTP Request.generated-requests | Авторизоваться">
+-    <configuration name="generated-requests | Создать комнату" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="11" requestIdentifier="Создать комнату" runType="Run single request">
++  <component name="RunManager" selected="HTTP Request.generated-requests | Удалить аккаунт">
++    <configuration name="generated-requests | Удалить аккаунт" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="5" requestIdentifier="Удалить аккаунт" runType="Run single request">
+       <method v="2" />
+     </configuration>
+     <configuration name="generated-requests | Редактировать комнату" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="12" requestIdentifier="Редактировать комнату" runType="Run single request">
+@@ -150,7 +157,7 @@
+     <configuration name="generated-requests | Получить дом" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="8" requestIdentifier="Получить дом" runType="Run single request">
+       <method v="2" />
+     </configuration>
+-    <configuration name="generated-requests | Авторизоваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="2" requestIdentifier="Авторизоваться" runType="Run single request">
++    <configuration name="generated-requests | Зарегистрироваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" requestIdentifier="Зарегистрироваться" runType="Run single request">
+       <method v="2" />
+     </configuration>
+     <configuration name="generated-requests | Зарегистрироваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user-service/generated-requests.http" requestIdentifier="Зарегистрироваться" runType="Run single request">
+@@ -159,7 +166,7 @@
+     <configuration name="generated-requests | Авторизоваться" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user-service/generated-requests.http" index="2" requestIdentifier="Авторизоваться" runType="Run single request">
+       <method v="2" />
+     </configuration>
+-    <configuration name="generated-requests | Получить список домов" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="9" requestIdentifier="Получить список домов" runType="Run single request">
++    <configuration name="generated-requests | Дом и комнаты" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/generated-requests.http" index="6" requestIdentifier="Дом и комнаты" runType="Run single request">
+       <method v="2" />
+     </configuration>
+     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+@@ -183,11 +190,34 @@
+       </deployment>
+       <method v="2" />
+     </configuration>
++    <configuration name="docker-compose.yaml.kafka-ui: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
++      <deployment type="docker-compose.yml">
++        <settings>
++          <option name="services">
++            <list>
++              <option value="kafka-ui" />
++            </list>
++          </option>
++          <option name="sourceFilePath" value="docker-compose.yaml" />
++        </settings>
++      </deployment>
++      <method v="2" />
++    </configuration>
++    <configuration name="untitled1/docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
++      <deployment type="docker-compose.yml">
++        <settings>
++          <option name="sourceFilePath" value="../untitled1/docker-compose.yaml" />
++        </settings>
++      </deployment>
++      <method v="2" />
++    </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="HTTP Request.generated-requests | Получить список домов" />
+-        <item itemvalue="HTTP Request.generated-requests | Создать комнату" />
+-        <item itemvalue="HTTP Request.generated-requests | Авторизоваться" />
++        <item itemvalue="HTTP Request.generated-requests | Удалить аккаунт" />
++        <item itemvalue="HTTP Request.generated-requests | Зарегистрироваться" />
++        <item itemvalue="HTTP Request.generated-requests | Дом и комнаты" />
++        <item itemvalue="Docker.untitled1/docker-compose.yaml: Compose Deployment" />
++        <item itemvalue="Docker.docker-compose.yaml.kafka-ui: Compose Deployment" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -307,7 +337,7 @@
+       </breakpoints>
+     </breakpoint-manager>
+     <watches-manager>
+-      <inline-watch fileUrl="file://$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" line="29">
++      <inline-watch fileUrl="file://$PROJECT_DIR$/user-service/src/main/java/com/example/controller/AuthController.java" line="37">
+         <watch expression="httpServletRequest.getRequestURL()" language="JAVA" />
+       </inline-watch>
+     </watches-manager>
